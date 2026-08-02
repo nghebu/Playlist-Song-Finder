@@ -1,0 +1,9 @@
+# Generated per-video tracklists can reflect private viewing/listening history.
+tracklists/
+
+# Local Python environment and runtime files.
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
